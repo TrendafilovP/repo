@@ -1,1 +1,1 @@
-print('Hello from docker image')
+print('Hello from docker image!')
